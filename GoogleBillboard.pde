@@ -8,6 +8,7 @@ public void setup()
 		if(isPrime(dNum))
 		{
 			System.out.println(dNum);
+			break;
 		}
 
 	}
